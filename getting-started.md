@@ -92,7 +92,7 @@ what repeats into a base, and let each file keep only what's different.
 
 ## 4. The task workflow
 
-1. **Author** your JSON++ sources (the `.yaml++` files) in a `work/` folder: put shared structure in base
+1. **Author** your JSON++ sources (the `.yaml++` files) in `work/starter/` (for Task 1): put shared structure in base
    files, and make each leaf `$extends` them, keeping only what differs. Leave
    `starter-corpus/` unchanged — you'll verify against it.
 2. **Point `jq++` at your shared bases** so `$extends` can find them:

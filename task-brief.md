@@ -47,7 +47,8 @@ is all we need.
 
 **Where to put your work:** keep the corpus folders (`starter-corpus/`,
 `your-corpus/`) unchanged — you verify against them — and put your refactored
-sources in [`work/`](./work/), organized however you like.
+sources in [`work/`](./work/): Task 1 in `work/starter/`, Task 2 in `work/your/`.
+Organize each however you like.
 
 **For either task:** work the way you normally would. You may use AI assistance
 (Claude, Copilot, etc.) if that's how you usually work — just tell us whether and how
