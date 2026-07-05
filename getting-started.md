@@ -85,8 +85,9 @@ what repeats into a base, and let each file keep only what's different.
 
 ## 4. The task workflow
 
-1. **Author** your JSON++ sources: put shared structure in base files, and make each
-   leaf `$extends` them, keeping only what differs.
+1. **Author** your JSON++ sources in a `work/` folder: put shared structure in base
+   files, and make each leaf `$extends` them, keeping only what differs. Leave
+   `starter-corpus/` unchanged — you'll verify against it.
 2. **Point `jq++` at your shared bases** so `$extends` can find them:
    ```sh
    export JF_PATH=path/to/your/shared

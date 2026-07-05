@@ -19,6 +19,7 @@ what a first-time user experiences.
    [`starter-corpus/`](./starter-corpus/) — for Task 1.
 3. Optionally, [`your-corpus/`](./your-corpus/): a place for your own configuration
    (Task 2).
+4. A working folder, [`work/`](./work/), for your refactored JSON++ sources.
 
 ---
 
@@ -43,6 +44,10 @@ personal or open-source project, or something you can safely mask), do the same 
 it — put it in [`your-corpus/`](./your-corpus/). Mask any secrets first, and tell us
 about it in the questionnaire. If you have nothing you can share, skip this — Task 1
 is all we need.
+
+**Where to put your work:** keep the corpus folders (`starter-corpus/`,
+`your-corpus/`) unchanged — you verify against them — and put your refactored
+sources in [`work/`](./work/), organized however you like.
 
 **For either task:** work the way you normally would. You may use AI assistance
 (Claude, Copilot, etc.) if that's how you usually work — just tell us whether and how
