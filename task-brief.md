@@ -16,13 +16,14 @@ what a first-time user experiences.
 1. Install jq++ and skim the getting-started guide: see
    [`getting-started.md`](./getting-started.md).
 2. The starter corpus: a small set of GitHub Actions workflow files, provided in
-   [`corpus/`](./corpus/).
+   [`starter-corpus/`](./starter-corpus/).
 
-The provided corpus is the main task — please do that one. **Optionally**, if you
+The starter corpus is the main task — please do that one. **Optionally**, if you
 also have a configuration of your own that you are *allowed to share* (a personal
 or open-source project, or something you can safely mask), trying jq++ on it too is
-a welcome bonus — just tell us in the questionnaire. If you have nothing you can
-share, don't worry: the provided corpus is all we need.
+a welcome bonus — drop it in [`your-corpus/`](./your-corpus/) and tell us in the
+questionnaire. If you have nothing you can share, don't worry: the starter corpus is
+all we need.
 
 ---
 

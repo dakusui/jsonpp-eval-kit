@@ -98,7 +98,7 @@ what repeats into a base, and let each file keep only what's different.
 4. **Verify** the output still matches the original (semantic equality — key order and
    formatting don't matter):
    ```sh
-   diff <(jq++ corpus/ci-api.yml    | jq -S .) \
+   diff <(jq++ starter-corpus/ci-api.yml | jq -S .) \
         <(jq++ your-leaf.yaml++     | jq -S .) && echo "MATCH"
    ```
    A refactoring that changes the meaning is a failure — the generated output should

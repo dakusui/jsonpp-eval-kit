@@ -11,7 +11,8 @@ be acknowledged in it (with your consent).
    **[`task-brief.ja.md`](./task-brief.ja.md)**).
 2. Set up the tools with **[`getting-started.md`](./getting-started.md)** (日本語:
    **[`getting-started.ja.md`](./getting-started.ja.md)**).
-3. Do the task on the workflows in **[`corpus/`](./corpus/)**.
+3. Do the task on the workflows in **[`starter-corpus/`](./starter-corpus/)**
+   (optionally also your own, in [`your-corpus/`](./your-corpus/)).
 4. Fill in **[`questionnaire.md`](./questionnaire.md)** (日本語:
    **[`questionnaire.ja.md`](./questionnaire.ja.md)**).
 
@@ -38,7 +39,8 @@ IEEE Software 誌の論文に反映され、ご同意のうえで謝辞に記載
 
 1. 課題のご案内 **[`task-brief.ja.md`](./task-brief.ja.md)** を読んでください。
 2. **[`getting-started.ja.md`](./getting-started.ja.md)** でツールを準備します。
-3. **[`corpus/`](./corpus/)** のワークフローに対して課題を行います。
+3. **[`starter-corpus/`](./starter-corpus/)** のワークフローに対して課題を行います
+   （任意で、ご自身のものを [`your-corpus/`](./your-corpus/) に置いても構いません）。
 4. **[`questionnaire.ja.md`](./questionnaire.ja.md)** にご記入ください。
 
 ## ご提出

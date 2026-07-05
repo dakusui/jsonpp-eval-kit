@@ -97,7 +97,7 @@ name: Mark
    ```
 4. 出力が元と一致することを **検証** します（意味的な一致 — キーの順序や書式は問いません）:
    ```sh
-   diff <(jq++ corpus/ci-api.yml    | jq -S .) \
+   diff <(jq++ starter-corpus/ci-api.yml | jq -S .) \
         <(jq++ your-leaf.yaml++     | jq -S .) && echo "MATCH"
    ```
    意味を変えてしまうリファクタリングは失敗です — 生成された出力は、元と同じデータを
