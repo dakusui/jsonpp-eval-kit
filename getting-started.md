@@ -64,6 +64,9 @@ JSON++ is ordinary YAML/JSON plus a few reserved keys. The ones you need:
 
 ### A tiny worked example
 
+Create two text files (JSON++ sources use the `.yaml++` extension), then run `yq++`
+on the second one.
+
 `greeting.yaml++`:
 ```yaml
 greeting: Hello
@@ -89,7 +92,7 @@ what repeats into a base, and let each file keep only what's different.
 
 ## 4. The task workflow
 
-1. **Author** your JSON++ sources in a `work/` folder: put shared structure in base
+1. **Author** your JSON++ sources (the `.yaml++` files) in a `work/` folder: put shared structure in base
    files, and make each leaf `$extends` them, keeping only what differs. Leave
    `starter-corpus/` unchanged — you'll verify against it.
 2. **Point `jq++` at your shared bases** so `$extends` can find them:
