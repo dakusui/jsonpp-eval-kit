@@ -53,6 +53,11 @@ JSON++ is ordinary YAML/JSON plus a few reserved keys. The ones you need:
 | `eval:string:EXPR` | A `jq` expression evaluated *after* inheritance resolves (e.g. `refexpr(".foo")` reads another field). |
 | `_name:` (underscore prefix) | A private "holder" field for use by expressions; **stripped from the output**.[^holder] |
 
+> **Want more depth?** The full JSON++ / jq++ reference is at
+> <https://dakusui.github.io/jqplusplus/>. You don't need it for this task, but it's
+> handy if you get curious — or if you're using an AI assistant, which can read the
+> full docs to help you.
+
 ### A tiny worked example
 
 `greeting.yaml++`:
