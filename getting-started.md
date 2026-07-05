@@ -1,7 +1,11 @@
 # Fresh Eyes — Getting Started with JSON++ / jq++
 
-A 5-minute orientation so you can start the task. If anything here doesn't work,
-that itself is useful feedback — note it in the questionnaire.
+A 5-minute orientation so you can start the task.
+
+If a **setup** step here doesn't work, email me at **dakusui [at] gmail [dot] com**
+so we can fix it and you can keep going — and note it in the questionnaire. (For the
+**task itself**, if something is confusing, that's exactly what we want to learn
+about — work through it as you normally would, and jot it down.)
 
 ---
 
