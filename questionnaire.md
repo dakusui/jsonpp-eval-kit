@@ -11,8 +11,8 @@ answers. Be candid; critical feedback is exactly what we want.
 1. Your role (e.g. backend engineer, DevOps/platform, SRE):
 2. Years working with configuration files (JSON/YAML, Kubernetes, CI, etc.):
 3. How familiar were you with GitHub Actions before this? (none / some / very)
-4. Did you use the provided corpus, and/or one of your own as well? If you also
-   used your own, briefly what was it?
+4. You'll have done **Task 1** (the starter corpus). Did you **also** do **Task 2**
+   with your own config? If so, briefly what was it?
 
 ## B. How it went
 
